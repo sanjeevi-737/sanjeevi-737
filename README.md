@@ -170,7 +170,9 @@ Other         ██░░░░░░░░░░░░░░░░░░ 5%
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjeevi-737&theme=tokyonight&row=1&column=7"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjeevi-737&theme=tokyonight&row=1&column=7" alt="github profile trophy" />
+  </a>
 </p>
 
 ---
