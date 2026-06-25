@@ -201,13 +201,9 @@ Other         ██░░░░░░░░░░░░░░░░░░ 5%
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-   
-
 <a href="https://portfolio-gamma-nine-24.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
-
-   
 
 <a href="https://github.com/sanjeevi-737">
 <img src="https://skillicons.dev/icons?i=github"/>
