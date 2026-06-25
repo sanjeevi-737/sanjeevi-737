@@ -171,7 +171,7 @@ Other         ██░░░░░░░░░░░░░░░░░░ 5%
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjeevi-737&theme=tokyonight&row=1&column=7" alt="github profile trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjeevi-737&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="github profile trophy" />
   </a>
 </p>
 
@@ -180,7 +180,11 @@ Other         ██░░░░░░░░░░░░░░░░░░ 5%
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sanjeevi-737/sanjeevi-737/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjeevi-737/sanjeevi-737/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjeevi-737/sanjeevi-737/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sanjeevi-737/sanjeevi-737/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
